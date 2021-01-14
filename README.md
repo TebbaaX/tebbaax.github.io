@@ -1,2 +1,2 @@
-# Go see http://TebbaaX.xyz
-or http://adnane-x-tebbaa.github.io
+# Go see https://TebbaaX.xyz
+or https://adnane-x-tebbaa.github.io
