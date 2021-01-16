@@ -1,6 +1,0 @@
-0 bytes Test File 
-AZERTYUIOPQSDFGHJKLMWXCVBN
-123456789
-Aa
-Bb
-?/.<>
