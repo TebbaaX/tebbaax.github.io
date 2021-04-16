@@ -1,1 +1,3 @@
-GRecon-V1.0.update 
+Connected!
+Current version : GRecon-V1.0
+Update status : No update
