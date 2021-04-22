@@ -1,2 +1,2 @@
-Current version : GRecon-V1.0
+Current version : GRecon V2.0
 Update status : No update
