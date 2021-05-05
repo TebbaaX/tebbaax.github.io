@@ -1,5 +1,3 @@
-[TebbaaX@protonmail.com][Remove this]
-
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: OpenPGP.js v4.10.8
 Comment: https://openpgpjs.org
@@ -33,4 +31,5 @@ kbSen/odJze/EM56gZTixeSGEQNB4fDrFuJvw51JNxHoLufHYpwFem3se+eC
 +ZKRCL4kc/DAMUi081dT/yx8wutF0AU3kR0jmP0NDkn+yBUCYJ3akf1NlOYD
 TCYdgHwB9u4NCXxU48VAM9m8vvwbafAY9v5N
 =zHui
+
 -----END PGP PUBLIC KEY BLOCK-----
