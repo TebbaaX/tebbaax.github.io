@@ -1,5 +1,5 @@
 # Go see https://www.TebbaaX.com
-or https://adnane-x-tebbaa.github.io
+or https://tebbaax.github.io
 #
 [![Github All Releases](https://img.shields.io/uptimerobot/status/m788031890-b4b035f8060b1b215f2d8168)]()
 [![Github All Releases](https://img.shields.io/uptimerobot/ratio/m788031890-b4b035f8060b1b215f2d8168)]()
