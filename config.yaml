@@ -1,0 +1,4 @@
+baseURL: "http://tebbaax.github.io/"
+title: TebbaaX Blog
+paginate: 5
+theme: PaperMod
