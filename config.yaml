@@ -1,4 +1,4 @@
-baseURL: "http://tebbaax.github.io/"
+baseURL: "https://tebbaax.github.io"
+languageCode: en-us
 title: TebbaaX Blog
-paginate: 5
-theme: PaperMod
+theme: ["PaperMod"]
