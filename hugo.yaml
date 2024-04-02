@@ -1,0 +1,51 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: TebbaaX Blog
+theme: PaperMod
+enableEmoji: true
+defaultTheme: light
+
+
+
+params:
+  subtitle: The Best Widgets on Earth
+  homeInfoParams:
+    Title: ":wave: Welcome to TebbaaX's Blog "
+    Content: >-
+      Hi! this is TebbaaX, Welcome to my blog, where I delve into the exciting worlds of Web and Mobile Security & Dev, Reverse engineering, OSINT/Threat intel, and all things Cybersecurity, Bug Bounty & CTF challenges. :man_technologist:       
+  socialIcons:
+    - name: email
+      url: 'mailto:TebbaaX@protonmail.com'
+    - name: X
+      url: https://twitter.com/TebbaaX
+    - name: github
+      url: http://github.com/TebbaaX
+    - name: rss
+      url: /index.xml
+
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: posts
+    name: Blog
+    url: /posts/
+    weight: 20
+  - identifier: search 
+    name: Search
+    url: /search
+    weight: 20
+  - identifier: FAQ
+    name: FAQ
+    url: /faq
+    weight: 20
+    
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON 
