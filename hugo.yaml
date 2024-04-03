@@ -25,6 +25,9 @@ params:
       url: /index.xml
   assets:
     favicon: "/favicon.ico"
+    favicon16x16: "/favicon.ico"
+    favicon32x32: "/favicon.ico"
+    
 
 
 
