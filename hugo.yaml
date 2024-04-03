@@ -9,6 +9,7 @@ defaultTheme: light
 
 params:
   subtitle: The Best Widgets on Earth
+  ShowReadingTime: true
   homeInfoParams:
     Title: ":wave: Welcome to TebbaaX's Blog "
     Content: >-
