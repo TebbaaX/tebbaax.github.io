@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: "https://tebbaax.github.io"
 languageCode: en-us
 title: TebbaaX Blog
 theme: PaperMod
@@ -12,8 +12,8 @@ params:
   homeInfoParams:
     Title: ":wave: Welcome to TebbaaX's Blog "
     Content: >-
-      Hi there! I'm TebbaaX. This blog is my hub for exploring Web and Mobile Security & Dev, Reverse Engineering, OSINT/Threat Intel, 
-      Bug Bounty & CTFs. You'll here find my notes and blogs on these topics! 👨‍💻     
+      Hi there! I'm TebbaaX, and this is my blog aimed for exploring Web and Mobile Security & Dev, Reverse Engineering, OSINT/Threat Intel, 
+      Bug Bounty & CTFs. You'll here find my Blogs, notes and papers on these topics! 👨‍💻     
   socialIcons:
     - name: email
       url: 'mailto:TebbaaX@protonmail.com'
@@ -28,8 +28,6 @@ params:
     favicon16x16: "/favicon.ico"
     favicon32x32: "/favicon.ico"
     
-
-
 
 menu:
   main:
