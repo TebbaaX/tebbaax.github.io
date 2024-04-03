@@ -23,6 +23,9 @@ params:
       url: http://github.com/TebbaaX
     - name: rss
       url: /index.xml
+  assets:
+    favicon: "/favicon.ico"
+
 
 
 menu:
