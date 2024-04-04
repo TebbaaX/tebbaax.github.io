@@ -1,14 +1,12 @@
 baseURL: "https://tebbaax.github.io"
 languageCode: en-us
-title: TebbaaX Blog
+title: TebbaaX's Blog
 theme: PaperMod
 enableEmoji: true
 defaultTheme: light
 
-
-
 params:
-  subtitle: The Best Widgets on Earth
+  subtitle: It was called the sand war bcs it was sandy.
   ShowReadingTime: true
   homeInfoParams:
     Title: ":wave: Welcome to TebbaaX's Blog "
@@ -24,6 +22,7 @@ params:
       url: http://github.com/TebbaaX
     - name: rss
       url: /index.xml
+
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon.ico"
@@ -47,7 +46,7 @@ menu:
   - identifier: FAQ
     name: FAQ
     url: /faq
-    weight: 20
+    weight: 50
     
 
 outputs:
