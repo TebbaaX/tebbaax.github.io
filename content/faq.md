@@ -8,8 +8,6 @@ url: "/faq"
 
 ---
 
-- _This blog contains a small collection of technical write-ups, ranging from CTF challenges to Bug Bounty, general infosec stuff, OSINT, and more._
-
 > **_Can i use the material provided by this blog?_**
 
 - Yes! Feel free to use the materials in this blog under the condition of giving proper credit, as per the *Creative Commons (CC) licensing*.
