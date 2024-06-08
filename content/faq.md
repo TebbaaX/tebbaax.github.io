@@ -14,6 +14,8 @@ url: "/faq"
 
 > **_How to Get Updates?_**
 
-- I'm not intending to start a newsletter, but you can use the [RSS feed](/index.xml) and drop a follow on [X (Twitter)](https://twitter.com/TebbaaX).
+- I'm not intending to start a newsletter, but you can use the [RSS feed](/index.xml) and use [RSS feed readers](https://www.privacytools.io/privacy-rss-feed-readers) additionally drop a follow on [X (Twitter)](https://twitter.com/TebbaaX).
 
+> **_How to reach out?_**
 
+- I prefer email 📧 TebbaaX@protonmail.com and PGP can be found [here](/pgp.txt).
