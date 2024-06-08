@@ -10,7 +10,7 @@ params:
   ShowReadingTime: true
   homeInfoParams:
     Title: ":wave: TebbaaX's Blog "
-    Content: "This blog is dedicated to exploring Web and Mobile Security & Development, Reverse Engineering, OSINT/Threat Intelligence, Bug Bounty, CTFs, and sharing my insights on various other topics. You will also find posts about my miscellaneous adventures and experiences. Here, you will find my articles, notes, and papers on these subjects. 👨‍💻"
+    Content: "This blog is dedicated to exploring Web and Mobile Security & Development, Reverse Engineering, OSINT/Threat Intelligence, Bug Bounty, CTFs, and sharing my insights on various other topics. You will also find posts about my miscellaneous adventures and experiences. 👨‍💻"
   socialIcons:
     - name: email
       url: 'mailto:TebbaaX@protonmail.com'
