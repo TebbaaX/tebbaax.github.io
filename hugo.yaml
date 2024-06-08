@@ -11,8 +11,9 @@ params:
   homeInfoParams:
     Title: ":wave: Welcome to TebbaaX's Blog "
     Content: >-
-      Hi there! I'm TebbaaX and this is my blog, dedicated for exploring Web and Mobile Security & Dev, Reverse Engineering, OSINT/Threat Intel, 
-      Bug Bounty & CTFs. You'll here find my Blogs, notes and papers on these topics! 👨‍💻     
+      Hello! I’m TebbaaX. Welcome to my blog, where I dive into Web and Mobile Security & Development, Reverse Engineering, OSINT/Threat Intelligence, Bug Bounty, CTFs, and share my insights on various other topics. Here, you will find my articles, notes, and papers on these subjects.
+ 👨‍💻
+   
   socialIcons:
     - name: email
       url: 'mailto:TebbaaX@protonmail.com'
