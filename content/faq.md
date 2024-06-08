@@ -10,12 +10,12 @@ url: "/faq"
 
 > **_Can i use the material provided by this blog?_**
 
-- Yes! Feel free to use the materials in this blog under the condition of giving proper credit, as per the *Creative Commons (CC) licensing*.
+- _Yes! Feel free to use the materials in this blog under the condition of giving proper credit, as per the *Creative Commons (CC) licensing*_.
 
 > **_How to Get Updates?_**
 
-- I'm not intending to start a newsletter, but you can use the [RSS feed](/index.xml) and use [RSS feed readers](https://www.privacytools.io/privacy-rss-feed-readers) additionally drop a follow on [X (Twitter)](https://twitter.com/TebbaaX).
+- _I'm not intending to start a newsletter, but you can use the [RSS feed](/index.xml) with [RSS feed readers](https://www.privacytools.io/privacy-rss-feed-readers) additionally you can follow on [X (Twitter)](https://twitter.com/TebbaaX) for updates_.
 
 > **_How to reach out?_**
 
-- I prefer email 📧 TebbaaX@protonmail.com and PGP can be found [here](/pgp.txt).
+- _Email is prefered > TebbaaX@protonmail.com and PGP can be found [here](/pgp.txt)_.
