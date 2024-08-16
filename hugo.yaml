@@ -9,8 +9,8 @@ params:
   subtitle: It was called the sand war bcs it was sandy.
   ShowReadingTime: true
   homeInfoParams:
-    Title: ":wave: TebbaaX's Blog "
-    Content: "This blog is dedicated to exploring Web and Mobile Security & Development, Reverse Engineering, OSINT/Threat Intelligence, Bug Bounty, CTFs, and sharing my insights on various other topics. You will also find posts about my miscellaneous adventures and experiences. 🍕"
+    Title: "🍕 TebbaaX's Blog "
+    Content: "Cybersecurity blog dedicated to explore various areas of Offensive and Defensive security, CTFs and much more! 🍕"
   socialIcons:
     - name: email
       url: 'mailto:TebbaaX@protonmail.com'
