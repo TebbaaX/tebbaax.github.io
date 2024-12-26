@@ -10,7 +10,7 @@ params:
   ShowReadingTime: true
   homeInfoParams:
     Title: "🍕 TebbaaX's Blog "
-    Content: "Cybersecurity blog dedicated to explore various areas of Offensive and Defensive security, CTFs and much more! 🍕"
+    Content: "Cybersecurity blog dedicated to explore various areas of Offensive and Defensive security, CTFs and much more! 🍕 (Don't forget to read FAQ.)"
   socialIcons:
     - name: email
       url: 'mailto:TebbaaX@protonmail.com'

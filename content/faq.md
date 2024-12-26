@@ -19,3 +19,7 @@ url: "/faq"
 > **_How to reach out?_**
 
 - _Email is prefered > TebbaaX@protonmail.com and PGP can be found [here](/pgp.txt)_.
+
+> **_Keep in mind_**
+
+- _Blogs, articles, project on this blog including opinions are mine & only mine and doesn't represent in any way my emloyer_.
